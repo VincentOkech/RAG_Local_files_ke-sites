@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-groq
+langchain-core
+faiss-cpu
+sentence-transformers
+torch
+transformers
+python-dotenv
+fastapi
+python-multipart
+uvicorn
+streamlit
+duckduckgo-search
+pydantic
+tiktoken
+diskcache 
